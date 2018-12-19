@@ -11,8 +11,6 @@ namespace Ubus.BackEnd.Entity
         public int Id { get; set; }
         public string Name { get; set; }
         public string Function { get; set; }
-        public DateTime BirthDate { get; set; }
-        public DateTime AdmissionDate { get; set; }
 
     }
 }
