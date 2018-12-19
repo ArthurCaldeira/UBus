@@ -1,0 +1,6 @@
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\bin\Debug\Ubus.BackEnd.dll
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\bin\Debug\Ubus.BackEnd.pdb
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\obj\Debug\Ubus.BackEnd.csprojAssemblyReference.cache
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\obj\Debug\Ubus.BackEnd.csproj.CoreCompileInputs.cache
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\obj\Debug\Ubus.BackEnd.dll
+F:\Estudos\UBus\Ubus.BackEnd\Ubus.BackEnd\obj\Debug\Ubus.BackEnd.pdb
