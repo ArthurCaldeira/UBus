@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ubus.BackEnd.Entity
+namespace Ubus.BackEnd.Biz
 {
-    public class AccessoryEntity
+    class ItineraryBiz
     {
     }
 }
